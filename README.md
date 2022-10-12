@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate full stack developer looking to build projects and solve problems from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitghosh120403&label=Profile%20views&color=0e75b6&style=flat" alt="arijitghosh120403" /> </p>
+<img align="center" width="400" alt="profile-gif" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uqitx5cqqvsk0viwvi9410jqf0gbq9m5narzbq0j&rid=giphy.gif&ct=g"/>
 
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
 
