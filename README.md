@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitghosh120403&label=Profile%20views&color=0e75b6&style=flat" alt="arijitghosh120403" /> </p>
 
+<img align ="right" alt="coding-gif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffull-stack-developer&psig=AOvVaw2ig6hgCGgzvQRCmqYE6IIC&ust=1665619063133000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCb0taw2foCFQAAAAAdAAAAABBD"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijitghosh120403" alt="arijitghosh120403" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ag120403" target="blank"><img src="https://img.shields.io/twitter/follow/ag120403?logo=twitter&style=for-the-badge" alt="ag120403" /></a> </p>
