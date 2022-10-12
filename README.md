@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate full stack developer looking to build projects and solve problems</h3>
-<div display="flex">
+<display="flex">
 <img alt="profile-gif" padding="10" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uqitx5cqqvsk0viwvi9410jqf0gbq9m5narzbq0j&rid=giphy.gif&ct=g"/>
 
 <p align="left"> Computer Science Under-graduate who loves Solving Real World Problems. I do find myself wordering and constantly thinking of possiblities of new Teechnological Advancement to help adress some of the recent requirements and problems of world. I am in a search for oppurtunities to learn new ideas and create new products. I love Algorithms and Data Structures. Enthusiastic about Artificial Intelligence, Machine learning and Full Stack Development. I like discussing about Technologies and their Development, Sports (like Basketball, Football, Cricket, Volleyball, Table tennis e.t.c.) and Computer Hardware.</p>
-<div/>
+</>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijitghosh120403" alt="arijitghosh120403" /></a> </p>
 
