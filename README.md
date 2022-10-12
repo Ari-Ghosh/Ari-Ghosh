@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate full stack developer looking to build projects and solve problems</h3>
 
-<img alt="profile-gif" width=max align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uqitx5cqqvsk0viwvi9410jqf0gbq9m5narzbq0j&rid=giphy.gif&ct=g"/>
+<img alt="profile-gif" width=400 align="left" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uqitx5cqqvsk0viwvi9410jqf0gbq9m5narzbq0j&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijitghosh120403" alt="arijitghosh120403" /></a> </p>
 
