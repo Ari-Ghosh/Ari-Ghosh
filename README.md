@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate full stack developer looking to build projects and solve problems</h3>
 
-<img alt="profile-gif" width=100% align="left" src="https://www.canva.com/design/DAFSOzR8P_4/Oe28wqlqa0KSH_6UPEObYQ/edit?utm_content=DAFSOzR8P_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img alt="profile-gif" width=100% align="left" src="https://drive.google.com/file/d/1JdrkS4yaQJ32KbmFUxOajgBcN9x6N0XT/view?usp=sharing"/>
 
 <br><br />
 
