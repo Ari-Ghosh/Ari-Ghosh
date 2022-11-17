@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
 <h3 align="center">A passionate full stack developer looking to build projects and solve problems</h3>
 
-<img alt="profile-gif" width=100% align="left" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uqitx5cqqvsk0viwvi9410jqf0gbq9m5narzbq0j&rid=giphy.gif&ct=g"/>
+<img alt="profile-gif" width=100% align="left" src="https://www.linkedin.com/in/ag120403/overlay/background-image/"/>
 
 <br><br />
 
