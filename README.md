@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arijit Ghosh</h1>
-<h3 align="center">A passionate full stack developer looking to build projects and solve problems</h3>
+<h1 align="center">Hey 👋, Whats Up</h1>
+<h3 align="center">My name is Arijit Ghosh and I am a WEB3 and Backend Developer who is a Machine learning Enthusiast </h3>
+<br />
 
 <img alt="profile-gif" width=100% align="left" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
