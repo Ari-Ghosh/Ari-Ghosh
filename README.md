@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Whats Up</h1>
-<h3 align="center">My name is Arijit Ghosh and I am a WEB3 and Backend Developer who is a Machine learning Enthusiast </h3>
+<h3 align="center">My name is Arijit Ghosh and I am a Backend & Data Engineer who is enthusiastic about AI & ML </h3>
 <br />
 
 <img alt="profile-gif" width=100% align="left" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
